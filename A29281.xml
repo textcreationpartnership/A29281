@@ -1,0 +1,373 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mysterie of the true ministry unvailed as it was to be before, under, and shall be after Antichrists time, and the unlawfulness of the call of the now ministry. By a witness of the gospel, John Brayne.</title>
+            <author>Brayne, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29281</idno>
+            <idno type="STC">Wing B4329</idno>
+            <idno type="STC">ESTC R224004</idno>
+            <idno type="EEBO-CITATION">99834698</idno>
+            <idno type="PROQUEST">99834698</idno>
+            <idno type="VID">39202</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29281)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39202)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1808:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mysterie of the true ministry unvailed as it was to be before, under, and shall be after Antichrists time, and the unlawfulness of the call of the now ministry. By a witness of the gospel, John Brayne.</title>
+                  <author>Brayne, John.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>and are to be sold in Popes-head Alley,</publisher>
+                  <pubPlace>Printed at London, :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Theology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39202:1" rendition="simple:additions"/>
+            <p>THE MYSTERIE OF THE True Miniſtry UNVAILED, As it was to be before, under, and ſhall be after Antichriſts Time, AND The unlawfulneſs of the Call of the now MINISTRY.</p>
+            <p>By a Witneſs of the Goſpel, JOHN BRAYNE.</p>
+            <q>
+               <bibl>
+                  <hi>JEREM. 51.9.</hi>
+               </bibl> We would have healed Babylon, but ſhe is not healed; forſake her, and let us go every one into his own Country, &amp;c.</q>
+            <q>
+               <bibl>
+                  <hi>Verſ. 10.</hi>
+               </bibl> The Lord hath brought forth our Righteouſneſs; come, let us declare in Zion the Work of the Lord.</q>
+            <p>Printed at <hi>London,</hi> and are to be ſold in Popes-head Alley. 1649.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:39202:2"/>
+            <pb n="3" facs="tcp:39202:2"/>
+            <head>To the Supream Authority of the Nation, the Commons aſſembled in PARLIAMENT.</head>
+            <opener>
+               <salute>RIGHT HONORABLE,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Am bold in Jeſus Christ to pre<g ref="char:EOLhyphen"/>ſent you with this inſuing Trea<g ref="char:EOLhyphen"/>tiſe, as a part of the Councel of God, witneſsing in the Lord unto you, That the Work you have to do for the Houſe of God, is far above your and the worlds preſent apprehenſions; the true Church being no way to be reſtored, until you (whoſe work J hope it is) have made deſolate the falſe Church, <hi>Rev. 17.16.</hi> who before made deſolate the true Church, <hi>Rev. 11 2.</hi> ſo that in all you do leſs then the making of it deſolate, you come ſhort of fulfilling the Mind of God, and occaſion the delay of your own
+<pb n="4" facs="tcp:39202:3"/>deliverance, and the Kingdoms Peace, to do which God will inforce you, and not give you reſt until it be done, (yea, and all) be it what, or whomſoever: they that hinder it will be removed out of the way, God will ſpare no man, any thing herein; be ye therefore inſtructed, ye that be Judges of the Earth, and kiſs the Son leſt he be angry, and ye periſh from the way, when his wrath is kindled but a lit<g ref="char:EOLhyphen"/>tle, that ye may in this his day of wrath find favour with the <hi>Lord,</hi> that ye may live in his ſight, and behold his ſalvation ready to be revealed; which is the deſire and fervent prayer of</p>
+            <closer>
+               <signed>Your Servant in the Goſpel John Brayn.</signed>
+               <dateline>
+                  <date>25 <hi>May,</hi> 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:39202:3"/>
+            <head>THE MYSTERY OF THE True Miniſtry UNVAILED, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He bleſſed and only wiſe God, to the magnifying of his moſt glorious Name, hath in the prophetical Hi<g ref="char:EOLhyphen"/>ſtory of the beloved Diſciple <hi>John</hi> ſet forth the Churches ſeveral changes, from that time the Apoca<g ref="char:EOLhyphen"/>lips was written to the end of the world.</p>
+            <p n="1">1. He ſpeaks to the Churches in the time of their Viſibility, in which time he lived, as in <hi>Chap.</hi> 1.2, <hi>&amp;</hi> 3. in which time the Mi<g ref="char:EOLhyphen"/>niſtry thereof are Angel Miniſters, or true Church-Miniſtry, <hi>Chap.</hi> 1.20. who are admoniſhed by the Spirit of Prophecy of Gods depriving the Churches of the uſe of them for their Apoſtacy, <hi>Rev.</hi> 2.5. <hi>&amp;</hi> 3.16. intimated in taking away the Candleſtick of the E<g ref="char:EOLhyphen"/>pheſian Church.</p>
+            <p>Now on this followeth the ſealing up of the Book as a Judg<g ref="char:EOLhyphen"/>ment to the wicked world, ſo that the Scriptures are in a manner taken from the world with the Church-Miniſtry, <hi>Rev.</hi> 5.2.</p>
+            <p n="2">2. The next eſtate followeth hereupon, is, the Churches driving into the Wilderneſs, or hid eſtate, Antichriſt having demoliſhed the frame, Conſtitution, publike Miniſtry, and Ordinances, as they were ſet up in the Primitive Church by the Apoſtles, and ſet up
+<pb n="6" facs="tcp:39202:4"/>other of his own, called the abomination of deſolation ſet up in the holy place.</p>
+            <p n="1">1. This is ſet out <hi>Chap.</hi> 12. from <hi>verſ.</hi> 1. to <hi>verſ.</hi> 5. where the Church is in its Viſibility: <hi>Verſe</hi> 6. ſets out its Inviſibility in its flight into the Wilderneſs.</p>
+            <p n="2">2. This flight into the Wilderneſs is diſcovered more ſignifi<g ref="char:EOLhyphen"/>cantly to us, <hi>Chap.</hi> 11. <hi>verſe</hi> 2. where the Gentiles are ſaid to tread underfoot the holy City 42 moneths; here by the holy City cannot be meant the City of <hi>Jeruſalem,</hi> it is more then 1600 year ſince that was deſtroyed, and lieth ſo; but the Church is here intended, who muſt be trod underfoot by the Heathens (for ſo the Nations are, though they are baptized, and call themſelves Chriſti<g ref="char:EOLhyphen"/>ans under the preſent Adminiſtrations) during which time of 1260 years, God ordained his Elect, being without Church-Conſtituti<g ref="char:EOLhyphen"/>on to be miniſtred unto man otherway then formerly, which way of Adminiſtration was either common, or more eſpecial.</p>
+            <p n="1">1. The common way of teaching was by the Miniſtry of thoſe which the Scripture calleth the two Witneſſes, <hi>Chap.</hi> 12.6. who are to feed the Church during its Wilderneſs Eſtate. Now the manner how they feed the Church is ſet down, <hi>Chap.</hi> 11.3. and then becauſe that the Ordination of Antichriſt was unlawful, God is ſaid to give them to prophecy, that is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> power to teach againſt the terror and threats of Antichriſt, and authority to do it in Chriſts Name during that time for the edification of the Elect.</p>
+            <p n="2">2. To theſe God in a more eſpecial manner within this time of 1260 day prophetically years, raiſeth up ſeven eminent men in ſe<g ref="char:EOLhyphen"/>veral ages, who ſerve to reſtore the Church of Chriſt by degrees, and deſtroy the Church of Antichriſt: Theſe are ſpoken of, <hi>Rev.</hi> 8.2. which ſeven Angels are as the Prophets raiſed up to the Jew<g ref="char:EOLhyphen"/>iſh Church, and added to their ordinary Miniſtry, by whom God revealed ſomething more of himſelf then the former world knew: ſo theſe opened the ſeven Seals of the ſealed Book, each one bring<g ref="char:EOLhyphen"/>ing ſomething of the hid Goſpel to light until all were revealed, and ſo each one pouring out his Vial on the falſe Church until it were deſtroyed, <hi>Rev.</hi> 10.7, 8. <hi>&amp;</hi> 16.17, 19.</p>
+            <p>Now theſe in an eminent manner, God having eminent matters to do by them, are ſaid to have their trumps from God, that is,
+<pb n="7" facs="tcp:39202:4"/>their Miniſtry and Call thereunto: and it is very remarkable, that both Witneſſes and Angels are ſaid to have their authority from God. Antichriſt would give none to theſe to Miniſter by, or ra<g ref="char:EOLhyphen"/>ther indeed could not, it being an abomination to take it from her, nor did they need it, God giving it them, nor would God uſe Anti<g ref="char:EOLhyphen"/>chriſts authority herein.</p>
+            <p n="1">1. Theſe Witneſſes were not two particular men, as ſome dream, but a few Witneſſes raiſed up of God ſucceſſively to in<g ref="char:EOLhyphen"/>ſtruct the Elect, and to manifeſt Antichriſts deluſions in the ſeveral ages of the predicted time, under part whereof we live, ſome of them being one while in <hi>France,</hi> as in <hi>Waldoe;</hi> others in <hi>Bohemia,</hi> as in <hi>Thabor;</hi> others in <hi>England</hi> at other time, as in <hi>John Wicklief.</hi>
+            </p>
+            <p n="2">2. Nor were they the Magiſtrate and Miniſter, as ſome con<g ref="char:EOLhyphen"/>ceive, from the Types they are drawn from, as <hi>Moſes</hi> and <hi>Aaron, Zerubbabel</hi> and <hi>Joſhuah.</hi>
+            </p>
+            <p n="1">1. Theſe were to feed the Church, and ſo may ye ſay doth the Chriſtian Magiſtrate, but more theſe feeds it by prophecy, which is not ordinarily proper to the Magiſtrate to do.</p>
+            <p n="2">2. They were in ſackcloth ſtill under perſecution all theſe times for the truth, as the Waldenſes by Papiſts, Nonconformiſts by Bi<g ref="char:EOLhyphen"/>ſhops, Independents by Presbyters. Now the Magiſtrates of theſe times were not brought to ſackcloth.</p>
+            <p n="3">3. To witneſs to Chriſt is uſually applyed to Miniſters, but not Magiſtrates. The Scripture mentions two ſorts of Witneſſes, the one ordinary, the other extraordinary; That that qualified the extraordinary, was, that he was <hi>teſtis occulatus,</hi> 1 <hi>John</hi> 1.1. they telling men what they ſaw of Chriſt in word and deed while he was with them in the fleſh, 1 <hi>Pet.</hi> 5.1.</p>
+            <p>The ordinary Witneſs is either a ſufferer for Chriſt, or a beleever in Chriſt, diſcovering to others the knowledg of Salvation by Jeſus Chriſt, which God by his Spirit hath manifeſted unto him.</p>
+            <p>
+               <hi>Object.</hi> Some of the Witneſſes were ordained by the Popiſh Miniſtry.</p>
+            <p>
+               <hi>Resp.</hi> 1. That was before they were called by God to witneſs, elſe they would not have received ordination from them.</p>
+            <p n="2">2. They witneſſed not by that Ordination.</p>
+            <p>That which conſtituted the miniſtring Witneſs here ſpoken of
+<pb n="8" facs="tcp:39202:5"/>is ſet down <hi>Rev.</hi> 19.10. <hi>I am</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>thy fellow ſervant, and of thy brethren that have the witneſs of Jeſus, for the witneſs of Jeſus is the Spirit of Prophecy:</hi> So that where God did, for this time of the Churches deſolation, give the Spirit of Prophecy, there was witneſs ſufficiently qualified thus; about 1160 <hi>Valdus</hi> of <hi>Lyons,</hi> a rich man on the ſudden death of one in company with him brought him to read the Scriptures, and teach it his family, and after many of the poor, in ſo much that he became a famous light in that dark time of the world, and did more good then a thouſand ordained Miniſters have done ſince without any Ordi<g ref="char:EOLhyphen"/>nation. And one <hi>Iohn Claydon</hi> about the year 1415. had this as an Article by the Biſhops exhibited againſt him, (taken out of a book that was called <hi>The Lanthorn of Light,</hi>) That he held the Biſhops Licenſe, for a man to preach the Word of God is the Cha<g ref="char:EOLhyphen"/>racter of the Beaſt. <hi>Vide Fox, Acts</hi> and <hi>Mon.</hi>
+            </p>
+            <p>Now, that this ſufficiently did conſtitute the witneſs for this Miniſtry during this time, I commend this to your conſideration:</p>
+            <p n="1">1. That they were to miniſter no more then God by his Spirit gave them an inward power to do, which was to prophecy.</p>
+            <p n="2">2. The Scripture mentions not that they had authority given them to adminiſter the Sacraments as the Apoſtles had, <hi>Mat.</hi> 28. <hi>ver. ult.</hi> and therefore they had none, nor durſt not adminiſter them.</p>
+            <p n="3">3. Nor during their Miniſtry were they to be adminiſtred, they being not to conſtitute any Church, nor was their viſible Church to be conſtituted by them.</p>
+            <p n="4">4. Nor are the Sacraments to be adminiſtred but in a true con<g ref="char:EOLhyphen"/>ſtituted Church, which are never mentioned in all the Hiſtory of the Church, but after <hi>Babels</hi> fall, <hi>Rev.</hi> 18.2. and the Call of the Saints out of her, <hi>Verſ.</hi> 4. and the Marriage of the Lamb, which was the Reſtauration of the Church to her primitive Conſtitution, <hi>Rev.</hi> 19.7. then <hi>Verſe</hi> 9 followeth, <hi>Bleſſed are they which are cal<g ref="char:EOLhyphen"/>led to the Marriage Supper of the Lamb:</hi> ſo that before the Marriage or Church-Conſtitution is, to be no Supper by any al<g ref="char:EOLhyphen"/>lowance of Jeſus Chriſt at all.</p>
+            <p n="5">5. There being no true conſtituted viſible Church, there was not that power left in any rightly to elect or ordain any to the publike places of the Goſpel-Miniſtry, nor will be while the Wit<g ref="char:EOLhyphen"/>neſſes
+<pb n="9" facs="tcp:39202:5"/>time is, until God ſend him whom he will ſend to re<g ref="char:EOLhyphen"/>ſtore it.</p>
+            <p n="5">5. I grant that if a right conſtituted Church were in being, that then none may preſume to teach by his gifts, without the Church call, when that that is lawfull is to be had: but untill that time come, Gods giving to prophecy is ſufficient authority without any preſent call, it being Antichriſtian.</p>
+            <p>
+               <hi>Applic.</hi> Conſider I pray, to what height of abomination the Sacraments have been put unto, it being worſhiped as God caſt into <hi>Tibur</hi> to ſtop the raging of the Seas; ſaid to be really the bo<g ref="char:EOLhyphen"/>dy and blood of Chriſt by tranſubſtantiation, and then the error of conſubſtantiation came up, and was made to bring death, which was given for to miniſter life to the Saints, the Cup kept from the Lay-people as they call them, and how ſince under Epiſco<g ref="char:EOLhyphen"/>pacy and Presbitery, communicated to unbelievers carnal and evill minded men, yea, prophane and wicked, to the offence of godly minded men.</p>
+            <p n="2">2. How hath the Sacrament of Baptiſm been adminiſtred Na<g ref="char:EOLhyphen"/>tionally with Doctrines that corrupted the mindes of men, as if in it their ſins were waſhed away, and that by this, they come to be members of Chriſt and of his Church: which ſtate is no other nor no better then the condemned World.</p>
+            <p n="3">3. Hence God, foreſeeing to what abomination in this time the Sacraments by Antichriſt would be put unto, did in the time of this Churches hiding, as he did with the <hi>Iewes</hi> in the time of their being in the wilderneſs, diſpence with his Ordinance, they being not circumciſed: we alſo during this time being not baptized, are accepted Baptiſme, being that viſible Ordinance did onely accompany the eſtate of the viſible Church; which is yet hid, and mainly ſerved to its conſtitution.</p>
+            <p n="4">4. The Miniſtry of the Witneſſes and their Authority, is only to endure while the Church is unconſtituted, and differs from the Church conſtituted Miniſtry in time, in call, in Miniſtry and office, they being but VVitneſſes onely, and not Goſpel-miniſters, as Church-miniſters.</p>
+            <p n="5">5. God calling them [my Two VVitneſſes] ſheweth that he did approve of them and their Miniſtry during that time, and that there were no other Miniſters in all the world, but theſe God
+<pb n="10" facs="tcp:39202:6"/>did allow of or own at all amongſt the Nationall Miniſtry, which were multitudes.</p>
+            <p n="6">6. As one of theſe I now Miniſter.</p>
+            <p n="7">7. If the Witneſſes had not authority to adminiſter the Sacra<g ref="char:EOLhyphen"/>ments, then no other Miniſtry during their time of miniſtry, have or had in all the world.</p>
+            <p n="8">8. As they had not authority to baptize, ſo conſequentially they had no authority to conſtitute a Church, nor have any yet receiv<g ref="char:EOLhyphen"/>ed it, as I think, as it ſhall be given.</p>
+            <p>The Third Change, from its Deſolate eſtate, to its Reſto<g ref="char:EOLhyphen"/>ration again.</p>
+            <p>VVhich ſhall be done by him, ſpoken of <hi>Rev.</hi> 18. <hi>Ver.</hi> 1. who comes on the fall of <hi>Babel</hi> Rev. 17.6. and calls men out, <hi>Cap.</hi> 18.4. celebrates the Marriage of the Lamb, <hi>Rev.</hi> 17.19. adminiſters the Sacrament of the Lords Supper, <hi>Ver.</hi> 9. by whom the Church is adorned with Miniſtry and Ordinances as a Bride prepared for her Husband, <hi>Rev.</hi> 21.2. For all theſe, there is not mention made of any other Church-miniſtring Angel but <hi>this</hi> aforeſaid.</p>
+            <p>That this Truth may appear more clearly true, I ſhall commend to your conſideration theſe ſucceeding Concluſions drawn from <hi>Mat.</hi> 21.15. <hi>The Baptiſm of Iohn, whence was it, from Heaven or of men?</hi>
+            </p>
+            <p>Chriſts teaching <hi>ver.</hi> 23. occaſioned the Prieſts and Elders of the People to queſtion him (ſaying,) <hi>by what authority doſt thou theſe things, &amp; who gave thee this authority?</hi> (which proves)</p>
+            <p n="1">1. That Teachers ought not to teach without authority.</p>
+            <p n="2">2. This Authority ſhould be lawfull, <hi>Rom.</hi> 10.15;</p>
+            <p n="3">3. Men may lawfully inquire into Teachers authority, (yea; and ought to do it) that they may ſee ground to obey that that is lawfull, and reject that that is unlawfull.</p>
+            <p n="4">4. The Prieſts had good ground to move the queſtion to <hi>Ieſus Christ,</hi>
+            </p>
+            <p n="1">1. <hi>Christ</hi> being of the Tribe of <hi>Iudah</hi> and not <hi>Levi,</hi> by the Ceremonial Law could not teach publickly, <hi>Heb.</hi> 7.14. Nor had <hi>Moſes</hi> ſaid any thing of any Prieſt ſhould riſe out of that Tribe.</p>
+            <p n="2">2. They had the overſeeing of the Miniſtry during their time committed to them.</p>
+            <p n="3">
+               <pb n="11" facs="tcp:39202:6"/>3. If they had not authority to teach; the People were not to hear, but to avoid them.</p>
+            <p>Now Chriſt anſwers their Queſtion, not by an anſwer, but by propoſing another queſtion to them to anſwer; which queſtion, concerns not himſelf, but the <hi>Baptiſt:</hi> nor doth it con<g ref="char:EOLhyphen"/>cern teaching, but baptizing; in which the authority of the Baptiſt, for his baptizing, is implyed, though not expreſſed by a Dilemma.</p>
+            <p n="1">1. In the words <hi>(from Heaven)</hi> that is, whether it were immediately from God, and ſo be extraordinary.</p>
+            <p n="2">2. In the words <hi>(or of men)</hi> that is, whether it were by an ordinary call from men, according to Church Conſtitution or not?</p>
+            <p n="1">1. Which proves that all publick miniſterial Acts, whether preaching or baptizing, ought not to be executed without autho<g ref="char:EOLhyphen"/>rity from God mediate or immediate.</p>
+            <p n="2">2. All Authority delegated of God to man, is comprehended under one of theſe.</p>
+            <p>The <hi>Baptiſts</hi> authority was from God extraordinary.</p>
+            <p n="1">1. He did that the Legal Prieſts did not, hence was he called the <hi>Baptiſt,</hi> as being the firſt ever did that miniſteriall Act; hence now, was he himſelf baptized as <hi>Mat.</hi> 3.14. <hi>I have need to be baptized of thee.</hi> 2. Mat. 11.13. <hi>The Law</hi> (that is, the legal Mini<g ref="char:EOLhyphen"/>ſtery) <hi>and the Prophets were until Iohn:</hi> Now in that they ceaſ<g ref="char:EOLhyphen"/>ed in <hi>Iohn,</hi> it proves he was none of them, nor did they acknowledge him.</p>
+            <p>Now that <hi>Iohns</hi> Authority was from Heaven, though he did no Miracle, <hi>Ioh:</hi> 10.41. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is clear, a way by which, God again will reſtore the true Church-Miniſtry into the world.</p>
+            <p n="1">1. It was prayed from Heaven without a ſigne by the Prophets predictions <hi>Mal.</hi> 4.5. and confirmed by Chriſt, <hi>Mat.</hi> 11.14. <hi>This is Elias which was for to come, if ye will receive him.</hi>
+            </p>
+            <p n="2">2. Eſa. 40.3. Mat. 3.3. <hi>This is he was ſpoken of by the Prophet Eſaiah:</hi> Theſe very predictions were Miracles themſelves, and ſo he needed none for confirmation.</p>
+            <p>
+               <hi>Concluſion</hi> is, That God, becauſe hath foretold in the Scrip<g ref="char:EOLhyphen"/>ture that he will ſend one to reſtore the faln Church and the Church Miniſtry. He will not do it by miracles, but leave men to the Word to be directed to receive him that is to do it, when he that ſhall do it is ſent therefore.</p>
+            <pb n="12" facs="tcp:39202:7" rendition="simple:additions"/>
+            <p>That we may receive him when he comes conſider:</p>
+            <p n="1">1. He is that <hi>Elias</hi> which is to come: There are two perſons ſpoken of by Chriſt under that name, <hi>Mat.</hi> 17.11, <hi>Elias ſhall firſt come,</hi> which is that that is to come, ſo much looked for of the Jews, and neglected of us: And then <hi>verſ.</hi> 12. <hi>Elias is al<g ref="char:EOLhyphen"/>ready come, &amp;c.</hi> which was <hi>John</hi> the <hi>Baptiſt.</hi> Now how, and by what he is to be known, is by <hi>Malachi</hi> ſet down <hi>cap.</hi> 4, 5. ſaid here by Chriſt, <hi>to reſtore all things:</hi> O how welcom ſhould he be to us!</p>
+            <p n="2">2. <hi>Rev.</hi> 18.1. His glory is ſaid to lighten the earth, ſo that he cannot be hid.</p>
+            <p n="3">3. He comes after the deſolation of Antichriſt ſo ſoon, that it is his work to publiſh the fall of Babel: I may more abundantly deſcribe him, but this ſufficeth.</p>
+            <p n="2">2. Concluſion: In that God in this Angel ſends authority from Heaven:</p>
+            <p n="1">1. It proves there is no ordinary Authority in the world left either that is lawful or ſufficient.</p>
+            <p n="2">2. There being now no new Adminiſtration or Prieſthood to be at all, it ſheweth the preſent is unclean, and not to be made uſe of; as was done in the Legal Miniſtry, which was put an end unto, changed, or ſwallowed up in the Evangelical.</p>
+            <p>The ordinary authority in Scripture is called by the name of <hi>Moſes</hi> Chair, which is that ſucceſſion the Prieſts proved their Miniſtry from <hi>Moſes</hi> by, <hi>Mat.</hi> 23.3. to which Chriſt alludes in the illative <hi>(therefore,) Therefore whatever they bid you ob<g ref="char:EOLhyphen"/>ſerve;</hi> that is, becauſe they ſit in <hi>Moſes</hi> Chair, inferring, that if they had not ſit in <hi>Moſes</hi> Chair, there were no tye on the people to hear them, nor no authority in that Miniſtry to teach them.</p>
+            <p n="1">1 <hi>Concluſion:</hi> That as the Prieſts were to prove their Call to the then Miniſtry from <hi>Moſes,</hi> which had the extraordinary Call; ſo are we to prove our ordinary Call to the Miniſtry to be derived ſucceſſively to us from the Apoſtles, who had the imme<g ref="char:EOLhyphen"/>diate or extraordinary Call from Chriſt.</p>
+            <p n="2">2 <hi>Concluſion</hi> is, That the ſucceſſion muſt be true, and in a true conſtituted Church, which Rome claims, though falſly, in <hi>Peters</hi> Chair, which indeed once was <hi>Pauls,</hi> but never <hi>Peters,</hi> Vid. <hi>Zanch. cap.</hi> 19.4 <hi>Praecep.</hi>
+            </p>
+            <p>Now our ſucceſſion being no lawful nor true Miniſters, theſe Queries;</p>
+            <p n="1">
+               <pb n="13" facs="tcp:39202:7" rendition="simple:additions"/>1. Whether any miniſterial act do<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by that Miniſtry be Evan<g ref="char:EOLhyphen"/>gelically authoritative?</p>
+            <p n="2">2. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in what Authority ſheweth not all Autho<g ref="char:EOLhyphen"/>rity is ſufficient to miniſter by ſome, may be falſe and counter<g ref="char:EOLhyphen"/>feit, as Antichriſts is, or none is.</p>
+            <p n="3">3. On the demand in the text, <hi>Who gave you this authority,</hi> muſt be anſwered.</p>
+            <p n="1">1. Either that it is from <hi>Rome:</hi>
+            </p>
+            <p n="2">2. Or by ſucceſſion of a Goſpel Church-Miniſtry ſet up in this Kingdom.</p>
+            <p>
+               <hi>Reaſon.</hi> I know that Text, <hi>Heb.</hi> 6.4. will not allow any man to take this honor (in the Church) to himſelf, unleſs he be called of God as <hi>Aaron</hi> was.</p>
+            <p>For the clearing of which Scripture, obſerve theſe things:</p>
+            <p n="1">1. That in the Church ordinarily none can miniſter without au<g ref="char:EOLhyphen"/>thority from the Church; for here he ſpeaks to a Church, and of Church-adminiſtrations.</p>
+            <p n="2">2. It is bounded by an exception, unleſs (extraordinarily) he be called of God.</p>
+            <p n="3">3. This Call he reduceth to <hi>Aaron,</hi> and not the Apoſtles, though <hi>Aaron</hi> were a miniſter of the Law, which not without a myſtery prophetically ſheweth any thing.</p>
+            <p n="1">1. That ſome unlawfully would take this honor to themſelves.</p>
+            <p n="2">2. That God hath ordained under the Goſpel to call ſome as <hi>Aaron</hi> was by <hi>Moſes,</hi> that is, God will have the Magiſtrate ſet up that Miniſtry he hath appointed to reſtore the Church by.</p>
+            <p>
+               <hi>Applic.</hi> 1. Such a thing muſt be revealed in the Word to be, or the Magiſtrate cannot do it, <hi>Moſes</hi> not doing but by command, as in this and elſewhere.</p>
+            <p n="2">2. If ſuch a thing be not to be accompliſhed, how vain were this exception if made of ſuch a thing as is not to be under the Goſpel at all.</p>
+            <p>That Ordination from <hi>Rome</hi> is not to be proved Evangelical.</p>
+            <p n="1">1. Antichriſt is ſaid to <hi>ſit in the Temple of God as God,</hi> 2 <hi>Theſ.</hi> 2.4. and how as God, but in his authoritative giving Commiſ<g ref="char:EOLhyphen"/>ſion to the Miniſtry of his falſe Church, ſetting up Laws and ap<g ref="char:EOLhyphen"/>pointing the Adminiſtrations in his falſe Church to be according to his and not the Will of Jeſus Chriſt.</p>
+            <p n="2">
+               <pb n="14" facs="tcp:39202:8"/>2. If ſucceſſion from <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me</hi> be truly Evangelical, how can the Church be ſaid to be hid, yea that bloody harlot made her to be hid to the world.</p>
+            <p n="3">3. God in his Word hath declared Antichriſt to be the fallen ſtar, <hi>Rev.</hi> 9.11. Therefore we cannot prove our Miniſtry thence, unleſs we will prove one abomination by another; yea, he is the murtherer, not the Miniſter of the Saints; and ſhall we prove our Miniſtry from this <hi>Jezabel.</hi>
+            </p>
+            <p n="2">2. Succeſſion cannot be proved true from any other Church.</p>
+            <p n="1">1. If in all the world the Church were but hid three years and a half, Succeſſion could not be proved, how then if it be hid 1260 years? for how can it be ſaid to be hid, when Succeſſion of Miniſtry can be proved for time, place, and perſons?</p>
+            <p n="2">2. Againſt thoſe that endeavor to prove their Call from a ſuc<g ref="char:EOLhyphen"/>ceſſion of Miniſtry ſet up in this Kingdom in <hi>Lucius</hi> time, I have proved at large in my Treatiſe called <hi>The Reſurrection of fallen Churches,</hi> that there was never any true conſtituted Church in this Kingdom, and then no true Miniſtry or Succeſſion to be pro<g ref="char:EOLhyphen"/>ved hence at all.</p>
+            <p>And were it granted a true Goſpel Church was ſet up in the Land in <hi>Lucius</hi> time, or before, and that ever ſince there have been faithful Teachers in the Land?</p>
+            <p n="1">1. For many years they have been but of the two Witneſſes, whoſe Ordination of thoſe that were ordained, was as corrupt as the Popiſh Prieſts, nor did they miniſter in a Church<g ref="char:EOLhyphen"/>way.</p>
+            <p n="2">2. Nor was Ordination exerciſed by them, but the Popiſh Hierarchy, who ſolely exerciſed the Authority of Church-admi<g ref="char:EOLhyphen"/>niſtrations in publick.</p>
+            <p n="3">3. Nor were their Societies formally and publickly diſtinguiſh<g ref="char:EOLhyphen"/>ed from the Popiſh Societies until <hi>Luthers</hi> time.</p>
+            <p n="4">4. Had they the power of Ordination, it muſt be according to that power ordained them, which was Antichriſtian.</p>
+            <p>
+               <hi>Object.</hi> We had Ordination from <hi>Luther</hi> one of the ſeven Angels, who had his trump from God, and was prophecyed of before, and ſo had authority to reſtore the Miniſtry.</p>
+            <p n="1">
+               <pb n="15" facs="tcp:39202:8"/>1. We of this Kingdom cannot plead this.</p>
+            <p n="2">2. Could we: Yet <hi>Luther</hi> not changing the Church to its right Conſtitution, nor erecting the Goſpel Miniſtry, what ever his Call was, the ordinary ſucceſſion of ſuch as ſucceeded him could not be Evangelical.</p>
+            <p n="3">3. Nor was the Reſtauration of the Churches fallen eſtate given to him to do, it being not to be until the fleſh of Antichriſt be eat, and her Antichriſtian policy burned, 1 <hi>Cor.</hi> 3.15. and ſhe made de<g ref="char:EOLhyphen"/>ſolate, that is, her Miniſtry took from her, <hi>Rev.</hi> 17.16. Now <hi>Lu<g ref="char:EOLhyphen"/>ther</hi> came, as it were, at the beginning, or in a viſible manner ſeem<g ref="char:EOLhyphen"/>ed to begin theſe things, the fulfilling whereof is reſerved for him who, as another <hi>Luther,</hi> ſhall lighten the world, but with a clearer and more exceeding glory, and none elſe but he to whom it is gi<g ref="char:EOLhyphen"/>ven may do it at all.</p>
+            <p>
+               <hi>Queſt.</hi> If a peoples electing a Miniſter be not authority ſuffi<g ref="char:EOLhyphen"/>cient to qualifie him for all miniſterial duties?</p>
+            <p>
+               <hi>Resp.</hi> 1. Election is the Peoples Intereſt.</p>
+            <p n="2">2. Ordination is properly the true Church Presbyteries In<g ref="char:EOLhyphen"/>tereſt.</p>
+            <p n="3">3. Theſe two are diſtinct things, and proper to ſeveral perſons, one of which is not to deſtroy the other, nor can one ſufficiently qualifie a man without the other.</p>
+            <p n="4">4. Though God hath given the Church, as a Church, the power of Election, yet a company of men in what other ſtate ſoever, have not this power belonging to, or reſiding in them; for if they had, how is then God ſaid to give it to the Church.</p>
+            <p n="5">5. Now as none have power to elect out of Church-ſociety, ſo Elders ordinarily have no power to ordain any that are not thus elected by a people of and in a Church conſtituted Eſtate.</p>
+            <p>
+               <hi>Applic.</hi> To Miniſters, I beſeech you, in all humility for Gods Glory, and your own Peace in the day of Accompt, ſee if the O<g ref="char:EOLhyphen"/>dinances of God may be adminiſtred without a Call; if ſo, what need a Call, or <hi>Paul</hi>'s ſo oft pleading for it? and whether an An<g ref="char:EOLhyphen"/>tichriſtian Call be not worſe then none, when we rule in Gods Houſe by the authority of his Adverſary? how intolerable a thing were this to be admitted in our own houſes.</p>
+            <p>
+               <hi>Illuſtration.</hi> As <hi>Nehem.</hi> 7.67. the Prieſts and Levites ſought their Regiſter amongſt thoſe that were recounted by Genealogy,
+<pb n="16" facs="tcp:39202:9"/>but it was not found, therefore were they, as polluted, put from the Prieſt-hood, which if all Churches that cannot prove their true and lawful ſucceſſions were ſo dealt withall, where would there be a Church or Church-Miniſter?</p>
+            <p>And it is obſervable, that the Lord having ſet apart a par<g ref="char:EOLhyphen"/>ticular Tribe for the Miniſtry of the Levitical Prieſthood, ſuc<g ref="char:EOLhyphen"/>ceſſion ſerved to continue them, their Corruptions not deſtroy<g ref="char:EOLhyphen"/>ing their miniſtry: It is otherwaies now under the Goſpel.</p>
+            <p n="2">2. If the Adminiſtrations in the corrupt Church of <hi>Corinth</hi> were but <hi>hay, wood or ſtuble</hi> 1 <hi>Cor.</hi> 3.12. what are ours, now adminiſtred, but their like, being as far below thoſe admini<g ref="char:EOLhyphen"/>ſtred in the true Church, in a right way, as ſtuble is to pre<g ref="char:EOLhyphen"/>cious Stones and Pearls.</p>
+            <p>
+               <hi>Object.</hi> We had Ordination neither from Pope nor Biſhops but from Presbitery.</p>
+            <p>
+               <hi>Reſp.</hi> Presbitery is a ſtream from that Fountain which in no wiſe cannot be purer then the reſt of that Hierarchy.</p>
+            <p>
+               <hi>Appl. to the People.</hi> Attend to what the Spirit ſaith unto you. 1 <hi>Theſſ.</hi> 5.12. <hi>that thoſe ye are to obey ought to be over you in the Lord, Acts</hi> 20.22. and <hi>the holy Spirit is to make them Overſeers:</hi> So that where theſe are not, the bonds of Govern<g ref="char:EOLhyphen"/>ment and Authority in teaching are deſtroyed, there being no Power or Authority to be acknowledged in the Church, but what is of Jeſus Chriſt: <hi>Jer.</hi> 23.21. and 29.9. God doth condemn the falſe Prophets for going and he did not ſend them: And in that 23. <hi>Jer.</hi> 21. God puts ſending before ſpeaking, as diſtinct things; in which they began to err.</p>
+            <p>
+               <hi>Appl. To Magiſtrates:</hi> Conſider the time you are in, even at the period of Antichriſts allotted time; and it will ſhew you clearly what God is doing, and what you are to doe: if y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> goe againſt Gods will and work, you will be broken to pieces as others have been before you: you will no longer proſper then ye walk in his way: and know, Gods device is againſt <hi>Babel, Jer.</hi> 51.11.29. which he will bring about to be done, though againſt your wills, yea againſt your ſelves: The Lord in mercy be a light unto you, and through your darkneſs guide you and preſerve you, to ſee the hoped for <hi>ſalvation</hi> of God in the Land, <hi>Ruth</hi> 4.11. and the Lord make you
+<pb n="17" facs="tcp:39202:9"/>doe worthily in <hi>Ephrata</hi> and famous in <hi>Bethlehem.</hi>
+            </p>
+            <p>Now in that Chriſt ſaith, <hi>Mat.</hi> 13.52. <hi>Every Scribe in<g ref="char:EOLhyphen"/>ſtructed to the Kingdom of Heaven bringeth forth of his Trea<g ref="char:EOLhyphen"/>ſury new things and old:</hi> I Commend to you, for Confirmati<g ref="char:EOLhyphen"/>on of the aforeſaid particulars, the 54. <hi>Cap.</hi> of the Proph. <hi>Eſa.</hi> In which theſe ſeverall eſtates of the Gentile Church are clear<g ref="char:EOLhyphen"/>ly held out, with its eſtate before it was a Church.</p>
+            <p n="1">1. Its eſtate before it was a Church, is ſet out in <hi>Ver.</hi> 1. by <hi>not bearing and not travailing with child,</hi> called <hi>deſolate,</hi> which eſtate can no way be applyed to the Jewiſh Church.</p>
+            <p n="2">2. This farther cleared, in that this eſtate of the Gentiles is oppoſed to the Jewes, they being the <hi>married Wife,</hi> ſignifying their Church eſtate as oppoſed to the Gentiles deſolate Con<g ref="char:EOLhyphen"/>dition.</p>
+            <p>The 2. Eſtate of the Gentiels after calling, is their <hi>married Eſtate</hi> under the Goſpel in the Apoſtles time.</p>
+            <p n="1">1. From <hi>ver.</hi> 1. where the multitude of Children ſhee then ſhould have are even more then the married Wife.</p>
+            <p n="2">2. On this God promiſeth the Church great encreaſe to be<g ref="char:EOLhyphen"/>tide her under that eſtate, <hi>ver.</hi> 2. where <hi>her Seed ſhall inherit the Gentiles, and ſhall make the deſolate Cities be inhabited;</hi> Deſolation being the eſtate God cals the world by, when without Communion with the Lord Jeſus in the fellowſhip of the Goſpel: Hence Antichriſt for deſtroying the Goſpel-Church Conſtitution, is called the <hi>abomination that maketh deſolate,</hi> ſhee having made the world deſolate as it was before Chriſt.</p>
+            <p>
+               <hi>Ver.</hi> 4. The holy Spirit tels her of her youth, which time followed ſhortly on her Converſion, when ſhe apoſtatized and fell from her firſt Love, adulterating the wayes of God, and in the end fell to Idolatry, by which the marriage Bond came to be broken.</p>
+            <p>
+               <hi>Object.</hi> The time of her <hi>youth</hi> was before Converſion, a time which precedes <hi>Marriage.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> The Time before Converſion was a deſolate Time, and ſhe deſolate in that time, which is not accounted of with God at all: and <hi>ver.</hi> 6. plainly proves this time of youth, was
+<pb n="18" facs="tcp:39202:10"/>time of marriage, for ſhe is there plainly called <hi>a wife of youth.</hi>
+            </p>
+            <p>The 3. eſtate is an eſtate of <hi>Widowhood, ver.</hi> 4.</p>
+            <p n="1">1. Which proves her once to have been the wife of Chriſt before, or how could ſhe be ſaid to be now a Widow?</p>
+            <p n="2">2. This <hi>Widow-hood</hi> is expreſly ſet down how it came to be brought upon her, and that is, ſhe was a <hi>forſaken woman,</hi> her Husband had left her; And now deſiring to be again admitted to be the Lords Spouſe, ſhe is rejected and refuſed, as not meet, as in <hi>ver.</hi> 6.</p>
+            <p n="3">3. This eſtate, is that eſtate that we have been in ſince the fall of the Goſpel-Church.</p>
+            <p n="4">4. <hi>Ver.</hi> 7. Proves it, where the Lord is brought in, ſaying, <hi>for a little moment have I forſaken thee:</hi> 1260 years in Eter<g ref="char:EOLhyphen"/>nity are loſt, as a moment is in the worlds thouſands of years; or as drop of water is loſt that fals into the great Seas.</p>
+            <p>The fourth Eſtate is her ſecond Reſtauration, in which Chriſt takes the Gentile Church again to himſelf, which is that we look for, and is now immediately to come.</p>
+            <p n="1">1. As in <hi>Verſe</hi> 5. in which Chriſt again puts the Church upon the looking on him as her Husband.</p>
+            <p n="2">2. <hi>Verſe</hi> 6. holds out the means how he aſſumes her to him<g ref="char:EOLhyphen"/>ſelf again, and that is giving her Call, <hi>Rev.</hi> 18.4.</p>
+            <p n="3">3. Her condition at this time of Calling is excellently ſet forth, ſhe is then grieved in ſpirit for lack of her Husband, and for her former diſhonoring of him; yea, ſhe is in a forſaken Eſtate, having a multitude of enemies, and no friends, <hi>Rev.</hi> 16.14. and ſo know<g ref="char:EOLhyphen"/>eth not what to do for lack of Chriſt.</p>
+            <p n="4">4. The way God hath to bring her to be his Wife after Calling, is ſet out by the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> by gathering Members into a Church-Society, which work God is ſaid to do <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the words are both in the plural, as that the greatneſs of all mer<g ref="char:EOLhyphen"/>cies is included in the Lords taking of the Church to himſelf again, and proves the Church ſhall yet have abundance of ſweet experi<g ref="char:EOLhyphen"/>ence of Jeſus Chriſts Love unto her above all other days or times paſt.</p>
+            <p n="5">5. Obſerve the order things are ſet down in by God, as firſt Calling, upon which followeth gathering, and the mercies menti<g ref="char:EOLhyphen"/>oned, <hi>Hoſea</hi> 2.19, 20, 21, 22. are thereupon made good.</p>
+            <p n="6">
+               <pb n="19" facs="tcp:39202:10"/>6. <hi>Verſ.</hi> 9. God gives the promiſe <hi>Gen.</hi> 9.11. to the Church for aſſurance, his wrath ſhould no more reſt on her, to which water God alludes, <hi>Rev.</hi> 21.1. ſaying, <hi>There ſhall be no more Sea;</hi> which proves <hi>Iſaiah</hi> to mind the fame things, time, and people with <hi>John.</hi>
+            </p>
+            <p n="7">7. This Scripture agreeth with <hi>Johns</hi> in many things, to be fulfilled now among the Gentiles, as the departure of the hills, and the removing of the mountains, ſpoken of <hi>Rev.</hi> 6.14. <hi>&amp;</hi> 16.14. in which worldly greatneſs, that our impediments to this great work are ſo removed as never was to be in any age as now, <hi>v.</hi> 10.</p>
+            <p n="8">8. In this <hi>Verſ.</hi> 10. after theſe are removed, and not before, the means by which the Goſpel Call may be effectual to us, is ſet down, and that is by binding Chriſt to us, and us to Chriſt by a Covenant, which is the marriage knot.</p>
+            <p n="9">9. <hi>Verſ.</hi> 11. ſets out the eſtate of the Gentiles with all exactneſs, before this Marriage time, they are afflicted, toſſed with tempeſt, and not comforted, as our eſtate at this day doth abundantly wit<g ref="char:EOLhyphen"/>neſs, when God begins to comfort her in her Church eſtate to be, he being now about to build the Goſpel Temple according to that of <hi>John, Rev.</hi> 11.1. In which conſider.</p>
+            <p n="1">1. He ſpeaks of laying the very foundations which he would not do (if any foundations,) that is, if any true Church were now in being, <hi>Verſ.</hi> 11.</p>
+            <p n="2">2. God faith he will make her Windows (that is, her Miniſters) of <hi>Agates,</hi> which God by an extraordinary way comes to make again, as in <hi>Verſ.</hi> 12.</p>
+            <p n="3">3. He will make her gates of <hi>Carbuncles,</hi> which ſhews that God would again now come to reſtore the way of Church-admiſ<g ref="char:EOLhyphen"/>ſion to its Memberſhip, which Antichriſt, like another <hi>Sampſon,</hi> had carryed away, as he the gates of <hi>Gaza.</hi>
+            </p>
+            <p>
+               <hi>Applic.</hi> That none of the ſtones mentioned, but the <hi>Saphir</hi> ſtones, which are the foundation ſtones, which ſignifie the Apoſtles are not of thoſe in <hi>Rev.</hi> 21. or in <hi>Aarons</hi> breſt, which ſhew this was the Gentile Church, and not the Jews in this place.</p>
+            <p n="2">2. In that he ſaith, <hi>he would lay the foundations, make gates and windows,</hi> he ſheweth the deſolation of the Church to be other<g ref="char:EOLhyphen"/>ways then is now thought on.</p>
+            <p>
+               <hi>Verſ.</hi> 13. he ſaith, <hi>All her children ſhall be taught of God:</hi> In
+<pb n="20" facs="tcp:39202:11"/>my Treatiſe of the Reſurrection of fallen Churches ſee my Expo<g ref="char:EOLhyphen"/>ſition of <hi>Heb:</hi> 8.10, 11. which accords with the Goſpel eſtate only.</p>
+            <p>
+               <hi>Verſ.</hi> 13.14. He comforts her in the peace ſhe ſhould enjoy af<g ref="char:EOLhyphen"/>ter her Churches Conſtitution, and none before, in that Magi<g ref="char:EOLhyphen"/>ſtrates were wiſe, and would be warned of God herein.</p>
+            <p>
+               <hi>Verſ.</hi> 14. In Righteouſneſs ſhe ſhall be eſtabliſhed, to which 2 <hi>Pet.</hi> 3.13. alludes in his new heaven, and new earth.</p>
+            <p>
+               <hi>Verſ.</hi> 15.16, 17. God tells her what would come on her before theſe things were fulfilled, as that the enemies would gather toge<g ref="char:EOLhyphen"/>ther, <hi>Rev.</hi> 16.14. not by God, but the frogs, who ſhould fall for her ſake, <hi>Rev.</hi> 3.9, <hi>&amp;</hi> 12.8, 9. and then with what they ſhould come againſt her, with the Smiths inſtruments of War, and with falſe accuſations from their deceitful tongue, calling the Saints Schiſmaticks, Hereticks, Deceivers, &amp;c.</p>
+            <p>It remains I ſhould prove this againſt the common received Ex<g ref="char:EOLhyphen"/>poſitions, but think it needleſs, only thus generally men underſtand here by the Jewiſh Church only, not the Gentiles, which the word <hi>Married wife,</hi> ſet down in the beginning by way of oppoſition to the deſolate Church, is a ſufficient conviction of it ſelf to prove the contrary, and that the Scripture as before applyed concerns us, our peace and way to true happineſs, if the Lord give us grace to em<g ref="char:EOLhyphen"/>brace it, which only can ſecure us from the deſolation and miſery ſo eagerly purſues us, which the Lord in this ſweet and ſaving way of mercy deliver us from, for his Glory, and his Names ſake. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:39202:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
